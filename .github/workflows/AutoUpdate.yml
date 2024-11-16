@@ -15,7 +15,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v1
         with:
-          repository: meuccibear/meuccibear.github.io
+          repository: meuccibearFork/meuccibearFork.github.io
       - name: Set up Node
         uses: actions/setup-node@v2
         with:
