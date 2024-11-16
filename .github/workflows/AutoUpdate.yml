@@ -33,7 +33,7 @@ jobs:
           npm run build
       - name: Commit files
         run: |
-          git config --local user.email "meuccibear@gmail.com"
+          git config --local user.email "lvzhuozhuang@foxmail.com"
           git config --local user.name "GitHub Action[Bot]"
           git add -A
           git commit -m "update built files after user commit"
