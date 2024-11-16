@@ -7,5 +7,3 @@ Currently this project has implemented some basic features of blogs, windows, di
 **Hope you enjoy this blog and have fun 😃.**
 ![](https://raw.githubusercontent.com/GoodManWEN/GoodManWEN.github.io/main/misc/chika.png)
 
-
-hallo
